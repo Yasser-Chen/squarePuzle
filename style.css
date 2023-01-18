@@ -1,0 +1,35 @@
+.square{
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+}
+.square{
+    background-color: greenyellow;
+}
+
+.square-validated{
+    background-color: rgb(197, 12, 12);
+}
+.piece{
+    background-color: rgb(74, 91, 48);
+}
+
+.game-score-board{
+    color: white;
+    font-size: 100px;
+    padding: 10px;
+}
+.game{
+    height: 100vh;
+    background-color: black;
+    display: flex ;
+    justify-content: center ;
+    margin: 0;
+    align-items: center;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
